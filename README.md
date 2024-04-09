@@ -1,6 +1,9 @@
-<body style="background: linear-gradient(110deg, grey 40%, white 40%);">
-<h1 style="font-size: 70px; color: blue; text-align: center;"> Royal Place</h1>
+<body style="background: grey">
+<h1 style="font-size: 70px; color: black; text-align: center;"> Royal Place</h1>
 <h2>Create Your Account</h2>
+  <i>PLEASE INSERT INFO TO MOVE FORWARD</i>
+
+  <br> <br>
   NAME: <input id="name" type="text" placeholder="Enter your name">
   <br> <br>
   AGE: <input id="age" type="number" placeholder="Enter your age">
@@ -8,6 +11,11 @@
   GENDER: <input id="gender" type="text" placeholder="Enter your gender">
   <br> <br>
   D.O.B: <input id="dob" type="date" placeholder="Enter your D.O.B">
+  <br> <br>
+  EMAIL: <input id="email" type="text" placeholder="Enter your email">
+  <br> <br>
+  <button>SUBMIT</button>
+  
   
 
 <!---

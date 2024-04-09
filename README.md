@@ -15,6 +15,7 @@
   EMAIL: <input id="email" type="text" placeholder="Enter your email">
   <br> <br>
   <button>SUBMIT</button>
+  <a> </a>
   
   
 
